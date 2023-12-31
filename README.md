@@ -1,7 +1,7 @@
 👋 Hi, I'm a college student in South Korea. I'm currently studying about AI and data science.
-<details>
+
   <span style="font-size: 24px;">📕 <b>Education</b></span>  
-</details>
+
 
 <span style="font-size: 18px;">Hanyang University</span>
 
