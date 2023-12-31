@@ -33,7 +33,7 @@
   
 <span style="font-size: 18px;"><b>K-Water Big Data Competition</b></span>
 - **Period**: 2023/07 ~ 2023/09
-- **Won third prize**; Developed an object detection model that detects damages of sewers and classifies the types of damages using YOLOv8, and won the excellence award
+- **Won third prize**; Developed an object detection model that detects damages of sewers and classifies the types of damages using YOLOv8
   
 -----
 
