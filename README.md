@@ -19,6 +19,11 @@
 - **Conducted data research**; Gathered approximately 6,000 US universities' data for building college information service and college mix & match service of [the Pond](https://diveintothepond.com/)
 - **Won first prize in a start-up competition**; Participated in [Hanyang Global Challengers' Start-up](https://www.sedaily.com/NewsVIew/260YA2VEVE) as a corporate representative and fostered logical persuasion skills
 
+<span style="font-size: 18px;"><b>Biz&AI Lab</b></span>
+- **Research Assistant**
+- **Period**: 2022/09 ~ 2022/12
+- **Research using NLP technologies**; Studied consumer and investor reactions to the ESG activities of Russell 1000 companies. Analyzed corporate news and Twitter data using fine-tuned BERT models (currently working on paper)
+
 <span style="font-size: 18px;"><b>BITAmin</b> (Data analysis club)</span>
 - **Member**
 - **Period**: 2023/02 ~ 2024/02
