@@ -38,5 +38,5 @@
 -----
 
 <span style="font-size: 35px;">😜 <b>Special notes</b></span>
-- In the summer of 2023, I went into a sewer full of cockroaches🐛 to test the performance of our team's AI model
+- In the summer of 2023, I went into a sewer full of cockroaches🪳 to test the performance of our team's AI model
 - When I was a freshman, I worked as a PD at a Hanyang University Broadcasting Station. You can check out the video I made from [here](https://youtu.be/c-Vp4spXQh4)
