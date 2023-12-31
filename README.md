@@ -26,7 +26,7 @@
 - **Participated in algorithm study**; Developed a profound understanding of core algorithms and data structures via consistet [problem solving](https://github.com/JunBro1016/problem-solving)
 
   
-<span style="font-size: 18px;"><b>K-Water Big Data Competition</b> (Data analysis club)</span>
+<span style="font-size: 18px;"><b>K-Water Big Data Competition</b></span>
 - **Period**: 2023/07 ~ 2023/09
 - **Won third prize**; Developed an object detection model that detects damages of sewers and classifies the types of damages using YOLOv8, and won the excellence award
   
