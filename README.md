@@ -1,4 +1,5 @@
 👋 Hi, I'm a college student in South Korea. I'm currently studying about AI and data science.
+
 <span style="font-size: 24px;">📕 <b>Education</b></span>  
 
 <span style="font-size: 18px;"><b>Hanyang University</b></span>
