@@ -6,7 +6,7 @@
 
 <span style="font-size: 18px;"><b>Hanyang University</b></span>
 - **Bachelor of Business Administration** (2018/03 ~ present)
-- **Bachelor of Information System** (2019/03 ~ present)
+- **Bachelor of Information System** (2019/09 ~ present)
 - **Bachelor of Industrial Engineering** (2023/09 ~ present)
 - **GPA**: 4.32 / 4.5
 
