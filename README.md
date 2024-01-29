@@ -8,7 +8,7 @@
 - **Bachelor of Business Administration** (2018/03 ~ present)
 - **Bachelor of Information System** (2018/09 ~ present)
 - **Bachelor of Industrial Engineering** (2023/09 ~ present)
-- **GPA**: 4.32 / 4.5
+- **GPA**: 4.33 / 4.5
 
 -----
 
