@@ -1,13 +1,12 @@
-👋 Hi, I'm a college student in South Korea. I'm currently studying AI and data science.
+👋 Hi, I'm an undergraduate student in South Korea. I'm currently studying AI and data science.
 
 -----
 
 <span style="font-size: 35px;">📕 <b>Education</b></span>  
 
 <span style="font-size: 18px;"><b>Hanyang University</b></span>
-- **Bachelor of Business Administration** (2018/03 ~ present)
-- **Bachelor of Information System** (2018/09 ~ present)
-- **Bachelor of Industrial Engineering** (2023/09 ~ present)
+- **Bachelor of Arts, Business Administration** (2018/03 ~ present)
+- **Bachelor of Science, Information System** (2018/09 ~ present)
 - **GPA**: 4.33 / 4.5
 
 -----
