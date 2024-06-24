@@ -5,7 +5,7 @@
 <span style="font-size: 35px;">📕 <b>Education</b></span>  
 
 <span style="font-size: 18px;"><b>Hanyang University</b></span>
-- **Bachelor of Arts, Business Administration** (2018/03 ~ present)
+- **Bachelor of Business Administration** (2018/03 ~ present)
 - **Bachelor of Science, Information System** (2018/09 ~ present)
 - **GPA**: 4.33 / 4.5
 
